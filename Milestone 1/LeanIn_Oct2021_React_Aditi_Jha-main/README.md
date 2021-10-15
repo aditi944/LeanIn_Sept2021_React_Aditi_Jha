@@ -77,7 +77,13 @@ Ans 31- function mean(array) {
     console.log(divide);
 }
 
-Ans 44- forEach loop over the array and executes the callback but filter executes the callback and check its return value.
+Ans 45-
+find() - used to find all the descendant elements of the selected element. 
+filter()- used to filters all the elements and returns the element that matches and the element that do not match are removed.
+findIndex()- returns the index of the first element in the array that satisfies the provided testing function.
+
+Ans 46- every() function in JavaScript is used to checks whether all the elements of the array satisfy the given condition or not. 
+The some() method in JavaScript is used to check whether at least one of the elements of the array satisfies the given condition or not.
 
 
 
