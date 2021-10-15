@@ -8,6 +8,7 @@ Ans 2- const numbers = [0, 3.1, 9.8, 3, 9.6, 10]
 Ans 3- numbers.length
 
 var n=numbers.length
+
 Ans 4- numbers[0], numbers[n], numbers[n/2]
 
 Ans 5- const mixedDataTypes=[5,'aditi','hello', 8.4,4,'no']
